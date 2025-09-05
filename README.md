@@ -44,7 +44,7 @@ This project contains a comprehensive set of educational files that explain the 
 
 ### 5. **Data Structures**
 - Folders:
-- [Arrr](c:/Users/Administrator/Desktop/Dart%20language/Arrr/)
+- [Array](c:/Users/Administrator/Desktop/Dart%20language/Array/)
 - [oop](c:/Users/Administrator/Desktop/Dart%20language/oop/)
 - Contains practical examples of data structures such as lists, sets, and maps.
 - A detailed explanation of how to create and use custom data structures.
