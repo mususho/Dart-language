@@ -8,14 +8,14 @@ This project contains a comprehensive set of educational files that explain the 
 ## Project Structure
 
 ### 1. **Variables & Data Types**
-- File: [1-Variables & Data Types .md] (c:/Users/Administrator/Desktop/Dart%20language/1-%D8%A7%D9%84%D9%85%D8%AA%D8%BA%D9%8A%D8%B1%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D9%86%D9%88%D8%A7%D8%B9%20Variables%20&%20Data%20Types%20.md)
+- File: [1-Variables & Data Types .md] 
 - Contains an explanation of basic Dart data types such as `int`, `double`, String, bool, lists, and sets.
 - Practical examples of how to declare and use variables.
 
 ---
 
 ### 2. Loops
-- File: [for,while,do-while loops.md] (c:/Users/Administrator/Desktop/Dart%20language/for,while,do-while%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D9%83%D8%B1%D8%A7%D8%B1%D8%B3%D9%87%20.md)
+- File: [for,while,do-while loops.md]
 - Covers loop types such as for, while, and do-while.
 - Practical examples of using loops with lists and maps.
 - A detailed explanation of functions like `forEach` and `Iterable.generate`.
@@ -35,7 +35,7 @@ This project contains a comprehensive set of educational files that explain the 
 ---
 
 ### 4. **Exception Handling**
-- File: [Exception Handling.md] (c:/Users/Administrator/Desktop/Dart%20language/Exception%20Handling%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B7%D8%A7%D8%A1%20.md)
+- File: [Exception Handling.md] 
 - Explanation of how to handle errors using `try-catch` and `finally`.
 - Examples of creating custom exceptions.
 - Detailed explanation of common error types such as `FormatException`.
@@ -66,9 +66,9 @@ This project contains a comprehensive set of educational files that explain the 
 ---
 
 ## Main Folders and Files
-- **[1-Variables & Data Types .md](c:/Users/Administrator/Desktop/Dart%20language/1-%D8%A7%D9%84%D9%85%D8%AA%D8%BA%D9%8A%D8%B1%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%A3%D9%86%D9%88%D8%A7%D8%B9%20Variables%20&%20Data%20Types%20.md):** Explanation of variables and types.
+- **[1-Variables & Data Types .md]** Explanation of variables and types.
 
-- **[for,while,do-while loops.md](c:/Users/Administrator/Desktop/Dart%20language/for,while,do-while%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D9%83%D8%B1%D8%A7%D8%B1%D8%B3%D9%87%20.md):** Explanation of loops. - **[Exception Handling.md](c:/Users/Administrator/Desktop/Dart%20language/Exception%20Handling%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%A3%D8%AE%D8%B7%D8%A7%D8%A1%20.md):** Error handling.
+- **[for,while,do-while loops.md]** Explanation of loops. - **[Exception Handling.md]** Error handling.
 - **[Algorithms](c:/Users/Administrator/Desktop/Dart%20language/Algorithms/):** Various algorithms.
 
 ---
